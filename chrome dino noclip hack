@@ -1,0 +1,3 @@
+*paste into chrome://dino console*
+
+Runner.instance_.gameOver = () =>{}
